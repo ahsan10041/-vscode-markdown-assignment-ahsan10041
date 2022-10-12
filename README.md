@@ -31,7 +31,7 @@ In order to convert your '.md' file to PDF format, right click on the preview wi
 
 This will create a `.pdf` file in the same path as your `.md` file. A screenshot below is attached to demonstrate this process.
 
-![Screenshot](image2.png)
+![Screenshot](image2.PNG)
 
 Keyboard Bindings
 -----------------
